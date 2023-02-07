@@ -74,7 +74,7 @@ const EditUser = () => {
             />
             <br></br>
 
-            <p>Input New User data and submit</p>
+            <p>Input User data and submit</p>
             <br></br>
             <input
               type="text"
